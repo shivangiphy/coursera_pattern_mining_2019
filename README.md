@@ -1,0 +1,1 @@
+# coursera_pattern_mining_2019
